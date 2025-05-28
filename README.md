@@ -1,7 +1,7 @@
-<p align="center">
-  <img src="https://github.com/Xprograms89/BitBalCheck/blob/main/Work.png" alt="Screenshot 1" width="520">
+<p align="left">
+  <img src="https://github.com/Xprograms89/BitBalCheck/blob/main/Work.png" width="979">
 
-##Скрипт BitBalCheck для многопоточной проверки балансов биткоин кошельков спомощью программы Electrum.
+Скрипт BitBalCheck для многопоточной проверки балансов биткоин кошельков спомощью программы Electrum.
 
 Найденые адреса подсвечиваются зеленым цветом и сохраняются в log.txt
 
@@ -29,9 +29,9 @@ p2wpkh:L3BEThKaWgiH1CdgE93tADaWpq8Nwb1xLTfK16dkKbiwsaXbM7sx
 
 
 Виды адресов:
-Legacy (P2PKH): начинается с цифры 1. Пример: 1N4Qbzg6LSXUXyXu2MDuGfzxwMA7do8AyL.
-Script (P2SH): начинается с цифры 3. Пример: 3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy.
-SegWit (P2WPKH): начинается с комбинации “bc1q”. Пример: bc1qfg9t7fwn0atn4yf9spca5502vk8dyhq8a9aqd8.
+Legacy (P2PKH): начинается с цифры 1. Пример: 1N4Qbzg6LSXUXyXu2MDuGfzxwMA7do8AyL
+Script (P2SH): начинается с цифры 3. Пример: 3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy
+SegWit (P2WPKH): начинается с комбинации “bc1q”. Пример: bc1qfg9t7fwn0atn4yf9spca5502vk8dyhq8a9aqd8
 Taproot (P2TR): начинается с комбинации “bc1p”. Пример: bc1peu5hzzyj8cnqm05le6ag7uwry0ysmtf3v4uuxv3v8hqhvsatca8ss2vuwx
 
 donate:
