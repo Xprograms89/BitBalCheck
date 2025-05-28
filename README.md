@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/Xprograms89/BitBalCheck/blob/main/Work.png" alt="Screenshot 1" width="520">
 
-Скрипт BitBalCheck для многопоточной проверки балансов биткоин кошельков спомощью программы Electrum.
+##Скрипт BitBalCheck для многопоточной проверки балансов биткоин кошельков спомощью программы Electrum.
 
 Найденые адреса подсвечиваются зеленым цветом и сохраняются в log.txt
 
@@ -38,3 +38,4 @@ donate:
 Bitcoin: bc1qz0d9730havlcxdlnjy5x6tqgjm74mkc2n3d8ed
 Ethereum: 0xbfB5cA523FBA25c712Ec1F580f0eCC3E0e7cD400
 Dogecoin: DQ9pAGAGpJ7TNapsAyhxs6oZBn7wEp6Apx
+</p>
