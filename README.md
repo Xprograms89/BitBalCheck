@@ -1,6 +1,6 @@
 <img src="https://github.com/Xprograms89/BitBalCheck/blob/main/Work.png" width="979">
 
-# Скрипт BitBalCheck для многопоточной проверки балансов биткоин кошельков спомощью программы Electrum.\
+# Скрипт BitBalCheck для многопоточной проверки балансов биткоин кошельков спомощью программы Electrum.
 
 Найденые адреса подсвечиваются зеленым цветом и сохраняются в log.txt\
 Строчки: with Pool(processes=min(11, total_addresses)) as pool: и pool = Pool(11) это количество потоков\
