@@ -1,18 +1,18 @@
+https://github.com/Xprograms89/BitBalCheck/blob/main/Work.jpg?raw=true
+РЎРєСЂРёРїС‚ BitBalCheck РґР»СЏ РјРЅРѕРіРѕРїРѕС‚РѕС‡РЅРѕР№ РїСЂРѕРІРµСЂРєРё Р±Р°Р»Р°РЅСЃРѕРІ Р±РёС‚РєРѕРёРЅ РєРѕС€РµР»СЊРєРѕРІ СЃРїРѕРјРѕС‰СЊСЋ РїСЂРѕРіСЂР°РјРјС‹ Electrum.
 
-Скрипт BitBalCheck для многопоточной проверки балансов биткоин кошельков спомощью программы Electrum.
+РќР°Р№РґРµРЅС‹Рµ Р°РґСЂРµСЃР° РїРѕРґСЃРІРµС‡РёРІР°СЋС‚СЃСЏ Р·РµР»РµРЅС‹Рј С†РІРµС‚РѕРј Рё СЃРѕС…СЂР°РЅСЏСЋС‚СЃСЏ РІ log.txt
 
-Найденые адреса подсвечиваются зеленым цветом и сохраняются в log.txt
-
-Строчки:
+РЎС‚СЂРѕС‡РєРё:
 with Pool(processes=min(11, total_addresses)) as pool:
-и
+Рё
 pool = Pool(11)
-это количество потоков
+СЌС‚Рѕ РєРѕР»РёС‡РµСЃС‚РІРѕ РїРѕС‚РѕРєРѕРІ
 
 Launcher.bat
-это основной скрипт запуска чекера BitBalCheck.py
+СЌС‚Рѕ РѕСЃРЅРѕРІРЅРѕР№ СЃРєСЂРёРїС‚ Р·Р°РїСѓСЃРєР° С‡РµРєРµСЂР° BitBalCheck.py
 
-Тестовый адрес для проверки: 16JjyXLhY3aniK4b5dXhPCR712Dy3srVQ8
+РўРµСЃС‚РѕРІС‹Р№ Р°РґСЂРµСЃ РґР»СЏ РїСЂРѕРІРµСЂРєРё: 16JjyXLhY3aniK4b5dXhPCR712Dy3srVQ8
 
 
 
@@ -26,11 +26,11 @@ p2wpkh:L3BEThKaWgiH1CdgE93tADaWpq8Nwb1xLTfK16dkKbiwsaXbM7sx
 
 
 
-Виды адресов:
-Legacy (P2PKH): начинается с цифры 1. Пример: 1N4Qbzg6LSXUXyXu2MDuGfzxwMA7do8AyL.
-Script (P2SH): начинается с цифры 3. Пример: 3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy.
-SegWit (P2WPKH): начинается с комбинации “bc1q”. Пример: bc1qfg9t7fwn0atn4yf9spca5502vk8dyhq8a9aqd8.
-Taproot (P2TR): начинается с комбинации “bc1p”. Пример: bc1peu5hzzyj8cnqm05le6ag7uwry0ysmtf3v4uuxv3v8hqhvsatca8ss2vuwx
+Р’РёРґС‹ Р°РґСЂРµСЃРѕРІ:
+Legacy (P2PKH): РЅР°С‡РёРЅР°РµС‚СЃСЏ СЃ С†РёС„СЂС‹ 1. РџСЂРёРјРµСЂ: 1N4Qbzg6LSXUXyXu2MDuGfzxwMA7do8AyL.
+Script (P2SH): РЅР°С‡РёРЅР°РµС‚СЃСЏ СЃ С†РёС„СЂС‹ 3. РџСЂРёРјРµСЂ: 3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy.
+SegWit (P2WPKH): РЅР°С‡РёРЅР°РµС‚СЃСЏ СЃ РєРѕРјР±РёРЅР°С†РёРё вЂњbc1qвЂќ. РџСЂРёРјРµСЂ: bc1qfg9t7fwn0atn4yf9spca5502vk8dyhq8a9aqd8.
+Taproot (P2TR): РЅР°С‡РёРЅР°РµС‚СЃСЏ СЃ РєРѕРјР±РёРЅР°С†РёРё вЂњbc1pвЂќ. РџСЂРёРјРµСЂ: bc1peu5hzzyj8cnqm05le6ag7uwry0ysmtf3v4uuxv3v8hqhvsatca8ss2vuwx
 
 donate:
 Bitcoin: bc1qz0d9730havlcxdlnjy5x6tqgjm74mkc2n3d8ed
