@@ -1,5 +1,5 @@
 
-![Иллюстрация к проекту](https://github.com/Xprograms89/BitBalCheck/blob/main/Work.png?raw=true)
+![Иллюстрация к проекту](https://github.com/Xprograms89/BitBalCheck/blob/main/Work.png)
 Скрипт BitBalCheck для многопоточной проверки балансов биткоин кошельков спомощью программы Electrum.
 
 Найденые адреса подсвечиваются зеленым цветом и сохраняются в log.txt
