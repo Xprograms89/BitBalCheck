@@ -21,14 +21,17 @@ p2pkh:KwHemWD3JrBWRyy3vAvNZLhfL2RsQ11Sj26CjzrbUyMb3mq9n3bZ
 p2wpkh-p2sh:KwHemWD3JrBWRyy3vAvNZLhfL2RsQ11Sj26CjzrbUyMb3mq9n3bZ
 p2wpkh:KwHemWD3JrBWRyy3vAvNZLhfL2RsQ11Sj26CjzrbUyMb3mq9n3bZ
 p2wpkh:L3BEThKaWgiH1CdgE93tADaWpq8Nwb1xLTfK16dkKbiwsaXbM7sx
-Виды биткоин-адресов
-Тип	Формат (начинается с)	Пример
-Legacy (P2PKH)	1	1N4Qbzg6LSXUXyXu2MDuGfzxwMA7do8AyL
-Script (P2SH)	3	3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy
-SegWit (P2WPKH)	bc1q	bc1qfg9t7fwn0atn4yf9spca5502vk8dyhq8a9aqd8
-Taproot (P2TR)	bc1p	bc1peu5hzzyj8cnqm05le6ag7uwry0ysmtf3v4uuxv3v8hqhvsatca8ss2vuwx
-Donate
-Валюта	Адрес
-Bitcoin	bc1qz0d9730havlcxdlnjy5x6tqgjm74mkc2n3d8ed
-Ethereum	0xbfB5cA523FBA25c712Ec1F580f0eCC3E0e7cD400
-Dogecoin	DQ9pAGAGpJ7TNapsAyhxs6oZBn7wEp6Apx
+### Виды адресов Bitcoin
+
+*   **Legacy (P2PKH):** Начинается с цифры `1`.  Пример: `1N4Qbzg6LSXUXyXu2MDuGfzxwMA7do8AyL`
+*   **Script (P2SH):** Начинается с цифры `3`.  Пример: `3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy`
+*   **SegWit (P2WPKH):** Начинается с комбинации `bc1q`.  Пример: `bc1qfg9t7fwn0atn4yf9spca5502vk8dyhq8a9aqd8`
+*   **Taproot (P2TR):** Начинается с комбинации `bc1p`.  Пример: `bc1peu5hzzyj8cnqm05le6ag7uwry0ysmtf3v4uuxv3v8hqhvsatca8ss2vuwx`
+
+## Поддержка
+
+Если вам понравился этот проект, вы можете поддержать разработчика:
+
+*   **Bitcoin:** `bc1qz0d9730havlcxdlnjy5x6tqgjm74mkc2n3d8ed`
+*   **Ethereum:** `0xbfB5cA523FBA25c712Ec1F580f0eCC3E0e7cD400`
+*   **Dogecoin:** `DQ9pAGAGpJ7TNapsAyhxs6oZBn7wEp6Apx`
