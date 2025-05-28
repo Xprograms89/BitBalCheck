@@ -20,10 +20,10 @@ p2wpkh-p2sh:KwHemWD3JrBWRyy3vAvNZLhfL2RsQ11Sj26CjzrbUyMb3mq9n3bZ
 p2wpkh:KwHemWD3JrBWRyy3vAvNZLhfL2RsQ11Sj26CjzrbUyMb3mq9n3bZ
 p2wpkh:L3BEThKaWgiH1CdgE93tADaWpq8Nwb1xLTfK16dkKbiwsaXbM7sx
 
-Legacy (P2PKH):* Начинается с цифры `1`.  Пример: `1N4Qbzg6LSXUXyXu2MDuGfzxwMA7do8AyL`  
-Script (P2SH): Начинается с цифры `3`.  Пример: `3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy`  
-SegWit (P2WPKH): Начинается с комбинации `bc1q`.  Пример: `bc1qfg9t7fwn0atn4yf9spca5502vk8dyhq8a9aqd8`  
-Taproot (P2TR): Начинается с комбинации `bc1p`.  Пример: `bc1peu5hzzyj8cnqm05le6ag7uwry0ysmtf3v4uuxv3v8hqhvsatca8ss2vuwx`  
+Legacy (P2PKH): Начинается с цифры 1. Пример: 1N4Qbzg6LSXUXyXu2MDuGfzxwMA7do8AyL\
+Script (P2SH): Начинается с цифры 3. Пример: 3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy\
+SegWit (P2WPKH): Начинается с комбинации bc1. Пример: bc1qfg9t7fwn0atn4yf9spca5502vk8dyhq8a9aqd8\
+Taproot (P2TR): Начинается с комбинации bc1p. Пример: bc1peu5hzzyj8cnqm05le6ag7uwry0ysmtf3v4uuxv3v8hqhvsatca8ss2vuwx\
 
 ## Donate
 *   **Bitcoin:** `bc1qz0d9730havlcxdlnjy5x6tqgjm74mkc2n3d8ed`
