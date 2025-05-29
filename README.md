@@ -10,12 +10,12 @@ Launcher.bat это основной скрипт запуска чекера Bi
 
 
 ### Виды адресов Bitcoin
-p2pkh:5KAZxSSxdBMgRWpjRGsVowxdDCMhmYGd6mZF3jxuQhVY1dyWonT\
-p2pkh:L3BEThKaWgiH1CdgE93tADaWpq8Nwb1xLTfK16dkKbiwsaXbM7sx\
-p2pkh:KwHemWD3JrBWRyy3vAvNZLhfL2RsQ11Sj26CjzrbUyMb3mq9n3bZ\
-p2wpkh-p2sh:KwHemWD3JrBWRyy3vAvNZLhfL2RsQ11Sj26CjzrbUyMb3mq9n3bZ\
-p2wpkh:KwHemWD3JrBWRyy3vAvNZLhfL2RsQ11Sj26CjzrbUyMb3mq9n3bZ\
-p2wpkh:L3BEThKaWgiH1CdgE93tADaWpq8Nwb1xLTfK16dkKbiwsaXbM7sx
+p2pkh: 5KAZxSSxdBMgRWpjRGsVowxdDCMhmYGd6mZF3jxuQhVY1dyWonT\
+p2pkh: L3BEThKaWgiH1CdgE93tADaWpq8Nwb1xLTfK16dkKbiwsaXbM7sx\
+p2pkh: KwHemWD3JrBWRyy3vAvNZLhfL2RsQ11Sj26CjzrbUyMb3mq9n3bZ\
+p2wpkh-p2sh: KwHemWD3JrBWRyy3vAvNZLhfL2RsQ11Sj26CjzrbUyMb3mq9n3bZ\
+p2wpkh: KwHemWD3JrBWRyy3vAvNZLhfL2RsQ11Sj26CjzrbUyMb3mq9n3bZ\
+p2wpkh: L3BEThKaWgiH1CdgE93tADaWpq8Nwb1xLTfK16dkKbiwsaXbM7sx
 
 Legacy (P2PKH): Начинается с цифры 1. Пример: 1N4Qbzg6LSXUXyXu2MDuGfzxwMA7do8AyL\
 Script (P2SH): Начинается с цифры 3. Пример: 3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy\
