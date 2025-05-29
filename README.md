@@ -23,6 +23,6 @@ SegWit (P2WPKH): Начинается с комбинации bc1q. Пример
 Taproot (P2TR): Начинается с комбинации bc1p. Пример: bc1peu5hzzyj8cnqm05le6ag7uwry0ysmtf3v4uuxv3v8hqhvsatca8ss2vuwx
 
 ## Donate
-*   **Bitcoin:** `bc1qz0d9730havlcxdlnjy5x6tqgjm74mkc2n3d8ed`
-*   **Ethereum:** `0xbfB5cA523FBA25c712Ec1F580f0eCC3E0e7cD400`
-*   **Dogecoin:** `DQ9pAGAGpJ7TNapsAyhxs6oZBn7wEp6Apx`
+*   **Bitcoin:** `bc1qngs6nyzh9mpcgn5f3vpsqqg90m4evxqxpk4gwr`
+*   **Ethereum:** `0x846C0F2857743309B43DB4f7Ba7db91aaAfd7E55`
+*   **Dogecoin:** `DQyXW6EM2ajNX5jseAar3vYEv3hyi7xWUf`
