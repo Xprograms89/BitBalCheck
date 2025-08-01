@@ -30,7 +30,7 @@ found = 0
 checked = 0
 total_addresses = 0
 
-RESTART_INTERVAL = 160
+RESTART_INTERVAL = 5000
 MAX_WORKERS = 10
 
 def set_console_title():
