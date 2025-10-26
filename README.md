@@ -3,7 +3,7 @@
 # Скрипт BitBalCheck для многопоточной проверки балансов биткоин кошельков спомощью программы Electrum.
 
 Найденые адреса подсвечиваются зеленым цветом и сохраняются в log.txt\
-Строчки: with Pool(processes=min(11, total_addresses)) as pool: и pool = Pool(11) это количество потоков\
+Строчки: MAX_WORKERS = 10 это количество потоков\
 Launcher.bat это основной скрипт запуска чекера BitBalCheck.py\
 Тестовый адрес для проверки: 16JjyXLhY3aniK4b5dXhPCR712Dy3srVQ8
 
